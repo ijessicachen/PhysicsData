@@ -1,0 +1,50 @@
+FIRST TRIAL
+
+first half
+y = 2.54508E+0*cos(1.41500E+0*x+987.67722E-3)+2.25500E+0
+
+second half
+y = 1.93158E+0*cos(1.64485E+0*x+1.07238E+0)+1.66753E+0
+
+SECOND TRIAL
+
+first half
+y = 1.84331E+0*cos(1.84423E+0*x+1.18375E+0)+1.44763E+0
+
+second half
+y = 1.73751E+0*cos(1.86220E+0*x+1.55205E+0)+1.37254E+0
+
+THIRD TRIAL
+
+first half
+y = 1.65728E+0*cos(1.91184E+0*x+1.66215E+0)+1.22485E+0
+
+second half
+y = 1.85426E+0*cos(1.94552E+0*x+1.88266E+0)+1.33375E+0
+
+*CHANGED CALIBRATION*
+
+FOURTH TRIAL
+
+first half
+y = 1.92160E+0*cos(1.89208E+0*x+1.54285E+0)+1.44313E+0
+
+second half
+y = 1.89824E+0*cos(1.95506E+0*x+1.84948E+0)+1.45429E+0
+
+FIFTH TRIAL
+
+first half
+y = -517.34590E-3*cos(-12.45300E+0*x-5.81020E+0)+1.38296E+0
+super questionable fit
+
+second half
+y = 1.94146E+0*cos(-2.25993E+0*x+3.94499E+0)+1.64698E+0
+
+SIXTH TRIAL
+
+first half
+y = 1.96415E+0*cos(2.31062E+0*x+8.66311E+0)+1.64724E+0
+
+second half
+y = 1.91401E+0*cos(2.43551E+0*x-3.66778E+0)+1.75314E+0
